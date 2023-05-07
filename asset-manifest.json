@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/matic/static/css/main.756af292.css",
+    "main.js": "/matic/static/js/main.ff223e4a.js",
+    "static/js/787.c7691fa2.chunk.js": "/matic/static/js/787.c7691fa2.chunk.js",
+    "static/media/logo.png": "/matic/static/media/logo.66360cd267872206fb8f.png",
+    "index.html": "/matic/index.html",
+    "main.756af292.css.map": "/matic/static/css/main.756af292.css.map",
+    "main.ff223e4a.js.map": "/matic/static/js/main.ff223e4a.js.map",
+    "787.c7691fa2.chunk.js.map": "/matic/static/js/787.c7691fa2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756af292.css",
+    "static/js/main.ff223e4a.js"
+  ]
+}
